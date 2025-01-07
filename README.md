@@ -3,6 +3,8 @@ Compares the Sentences using Sentence Transformers
 
 SimpliCheck is a web application designed to help students and educators compare text, code, and even images! Whether you're checking for similarities in assignments, comparing code solutions, or verifying text content, SimpliCheck has got you covered! 🚀
 
+Base Ver of This Project is [Cosine Similarity Based Checker](https://github.com/bharathajjarapu/Examiner).
+
 ### ✨ Features
 
 - 📝 Text Comparison: Direct text input and comparison
